@@ -1,0 +1,14 @@
+AI Stock Analysis Dashboard/
+├── agents/
+│   ├── finance_agent.py
+│   ├── analysis_agent.py
+│   └── agent_tools.py
+├── charting/
+│   └── charts.py
+├── data/
+│   └── data_provider.py
+├── app.py
+├── instruction_templates.py
+└── gemini_summarizer.py  
+
+   
