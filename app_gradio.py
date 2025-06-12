@@ -75,6 +75,9 @@ class GradioInterface:
                 <p style="color: rgba(255,255,255,0.8); font-size: 1.2em; margin: 10px 0 0 0;">
                     Advanced Technical Analysis with AI-Powered Forecasting
                 </p>
+                <p style="color: rgba(255,255,255,0.6); font-size: 0.8em; margin: 5px 0 0 0;">
+                    Developed by <a href="https://www.linkedin.com/in/alessandromorbio/" target="_blank" style="color: rgba(255,255,255,0.6);">Alessandro Morbio</a>
+                </p>
             </div>
             """)
 
@@ -149,7 +152,6 @@ class GradioInterface:
                             label="15-Day Price Forecast Summary",
                             elem_classes=["forecast-panel"]
                         )
-
 
             # Event handler
             analyze_button.click(
