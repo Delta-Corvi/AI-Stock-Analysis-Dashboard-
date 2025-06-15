@@ -219,7 +219,7 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-This project is released under the MIT License. See the `LICENSE` file for complete details.
+This project is released under the MIT License.
 
 ## 👨‍💻 Author
 
