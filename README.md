@@ -96,15 +96,28 @@ The application will be available at `http://localhost:7860`
 ## 📦 Main Dependencies
 
 ```txt
-gradio>=4.0.0              # Web interface framework
-yfinance>=0.2.0            # Financial data
-plotly>=5.0.0              # Interactive visualizations
-pandas>=1.5.0              # Data manipulation
-numpy>=1.24.0              # Numerical computing
-scikit-learn>=1.3.0        # Machine learning
-scipy>=1.10.0              # Scientific algorithms
-google-generativeai>=0.3.0 # Gemini integration
-python-dotenv>=1.0.0       # Environment management
+# Core AI / LLM
+google-genai>=1.0.0
+ 
+# Finance data
+yfinance>=0.2.40
+ 
+# Data processing
+pandas>=2.0.0
+numpy>=1.26.0
+ 
+# Machine learning
+scikit-learn>=1.4.0
+scipy>=1.13.0
+ 
+# Charting
+plotly>=5.22.0
+ 
+# Web UI
+gradio>=6.0.0
+ 
+# Environment variables
+python-dotenv>=1.0.0
 ```
 
 ## 🎯 How to Use
